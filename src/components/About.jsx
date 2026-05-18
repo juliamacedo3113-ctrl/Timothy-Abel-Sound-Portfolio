@@ -113,7 +113,7 @@ export default function About() {
                 style={{ background: "rgba(14,14,14,0.85)", backdropFilter: "blur(12px)" }}
               >
                 <p className="text-[9px] uppercase tracking-[0.3em] text-[#F5A623] mb-1"
-                  style={{ fontFamily: "'Space Mono', monospace" }}>Class of 2024</p>
+                  style={{ fontFamily: "'Space Mono', monospace" }}>Class of 2026</p>
                 <p className="text-sm font-black text-[#EDE8DF]" style={{ fontFamily: "'Syne', sans-serif" }}>
                   William Paterson
                 </p>

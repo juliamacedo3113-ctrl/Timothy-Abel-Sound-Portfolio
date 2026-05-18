@@ -5,7 +5,7 @@ export const clientWork = [
     artist: "Sofia Violet",
     role: "Mixed · Mastered",
     type: "Project",
-    year: "2024",
+    year: "2026",
     cover: "/Images/albums/homieostasis cover.webp",
     gradient: "from-[#6d28d9] via-[#4c1d95] to-[#1a0840]",
     description:
@@ -18,7 +18,7 @@ export const clientWork = [
     artist: "Skye Marilyn",
     role: "Mixed",
     type: "EP",
-    year: "2024",
+    year: "2025",
     cover: "/Images/albums/Missed Your Chance Album Cover.webp",
     gradient: "from-[#f43f5e] via-[#be185d] to-[#7c1d3f]",
     description:
@@ -31,7 +31,7 @@ export const clientWork = [
     artist: "Henry John",
     role: "Mixed · Mastered · Produced",
     type: "Single",
-    year: "2024",
+    year: "2025",
     cover: "/Images/albums/Skin and Bones and Time and Distance Cover.webp",
     gradient: "from-[#92400e] via-[#78350f] to-[#1c0a00]",
     description:
@@ -44,7 +44,7 @@ export const clientWork = [
     artist: "Henry John",
     role: "Mixed · Mastered",
     type: "Single",
-    year: "2024",
+    year: "2025",
     cover: "/Images/albums/Skin and Bones and Time and Distance Cover.webp",
     gradient: "from-[#1e3a5f] via-[#0f2340] to-[#050d18]",
     description:
@@ -85,11 +85,11 @@ export const ownReleases = [
     artist: "Timothy Abel",
     role: "Written · Produced · Mixed · Performed",
     type: "Album",
-    year: "2021",
+    year: "2022",
     cover: "/Images/albums/Regrets Over Someone Else cover.webp",
     gradient: "from-[#7f1d1d] via-[#450a0a] to-[#0a0505]",
     description:
-      "Timothy's debut album — self-written, produced, mixed, and performed from start to finish. Originally released in 2021, with a Deluxe edition following in 2024. The album showcases his range as both a producer and a performing artist.",
+      "Timothy's debut album — self-written, produced, mixed, and performed from start to finish. Originally released in 2022, with a Deluxe edition following in 2024. The album showcases his range as both a producer and a performing artist.",
     streamLink: "https://music.apple.com/us/artist/timothy-abel/1553221363",
   },
   {
@@ -111,7 +111,7 @@ export const ownReleases = [
     artist: "Timothy Abel",
     role: "Written · Produced · Mixed",
     type: "Single",
-    year: "2023",
+    year: "2025",
     cover: "/Images/albums/in april i pray cover.webp",
     gradient: "from-[#065f46] via-[#064e3b] to-[#022c22]",
     description:
@@ -124,7 +124,7 @@ export const ownReleases = [
     artist: "Timothy Abel",
     role: "Written · Produced · Mixed",
     type: "Single",
-    year: "2023",
+    year: "2025",
     cover: "/Images/albums/in april i pray cover.webp",
     gradient: "from-[#334155] via-[#1e293b] to-[#0a0f1a]",
     description:
@@ -137,7 +137,7 @@ export const ownReleases = [
     artist: "Timothy Abel",
     role: "Written · Produced · Mixed",
     type: "Single",
-    year: "2023",
+    year: "2024",
     cover: "/Images/albums/8ball cover.webp",
     gradient: "from-[#111827] via-[#0a0f1a] to-[#050810]",
     description:
@@ -150,7 +150,7 @@ export const ownReleases = [
     artist: "Timothy Abel",
     role: "Written · Produced · Mixed",
     type: "Single",
-    year: "2023",
+    year: "2025",
     cover: "/Images/albums/Stay cover.webp",
     gradient: "from-[#1e293b] via-[#0f172a] to-[#050810]",
     description:
